@@ -1,7 +1,7 @@
 # Nuka apps for Mac
 
 macOS apps by Grigorii Iakovlev. Polly, Razzy and Viggo are free; Lexter is free to use with a daily AI limit, and Standard and Pro licenses are sold at https://nukatools.app/pricing. Every download is signed with Developer ID and notarized by Apple,
-so it opens without warnings. Download the `.dmg` from [Releases](https://github.com/GrafDev/nuka-apps/releases),
+so it opens without warnings. Download the `.dmg` from [Releases](https://github.com/Nukatools/nuka-apps/releases),
 open it and drag the app to Applications.
 
 Requirements: macOS 15 Sequoia or later, Apple Silicon (Viggo also runs on Intel).
